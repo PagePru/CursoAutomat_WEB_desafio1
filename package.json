@@ -1,0 +1,14 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Segunda sesión cuero de automatización",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JEGB",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.6.2"
+  }
+}
